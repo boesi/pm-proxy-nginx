@@ -1,0 +1,2 @@
+ssl_certificate ${PM_CERT_FILE};
+ssl_certificate_key ${PM_CERT_KEY_FILE};
